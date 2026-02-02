@@ -33,3 +33,13 @@
 | 2026년 2월 6일~ 2월 8일 | 팀별 프로젝트|
 | 2026년 2월 8일 00:00 | 제출 기간 |
 | 2026년 2월 9일 15:00 | 최종 발표 |
+
+
+## 참고
+
+- [생활코딩 MachineLearning](https://www.youtube.com/playlist?list=PLuHgQVnccGMDy5oF7G5WYxLF3NCYhB9H9)
+- [마크다운 .md 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- [코코아팹 학습가이드](https://kocoafab.cc/product/studyguide)
+- [2020_SMARCLE_아두이노_멘토링강좌](https://youtube.com/playlist?list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR)
+- [2020_SMARCLE_아두이노_멘토링강좌 교안](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/blob/main/2020_SMARCLE%EA%B3%BC_%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94_%EA%BF%88%EB%82%98%EB%AC%B4_%EC%BD%94%EB%94%A9%EA%B5%90%EC%8B%A4.pdf)
+- [Git 동영상 강의](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
